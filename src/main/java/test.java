@@ -12,6 +12,5 @@ public class test {
      * @param args
      */
     public static void main(String[] args) {
-        System.out.println("这个一个Git远程操作实例！！");
     }
 }
